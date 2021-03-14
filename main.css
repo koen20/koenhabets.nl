@@ -1,0 +1,22 @@
+body {
+	background-color: #f5f5f5;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.content {
+	background-color: white;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	padding: 20px 10px;
+	box-shadow: 0px 0px 30px 0px #ddd
+}
+
+.project-item{
+	margin-bottom: 45px;
+}
+
+a {
+	color: rgb(64, 161, 173);
+	text-decoration-line: none;
+}
